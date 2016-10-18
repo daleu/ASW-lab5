@@ -1,1 +1,418 @@
+HTTP/1.1 200 OK
 
+x-frame-options:
+    SAMEORIGIN
+x-rate-limit-remaining:
+    14
+last-modified:
+    Tue, 18 Oct 2016 16:39:37 GMT
+status:
+    200 OK
+Content-Length:
+    7720
+x-response-time:
+    14
+Connection:
+    keep-alive
+x-transaction:
+    0039719200ac1211
+Server:
+    tsa_b
+pragma:
+    no-cache
+cache-control:
+    no-cache, no-store, must-revalidate, pre-check=0, post-check=0
+x-connection-hash:
+    390f932044de4d3d4241415d64328148
+x-xss-protection:
+    1; mode=block
+x-content-type-options:
+    nosniff
+x-rate-limit-limit:
+    15
+expires:
+    Tue, 31 Mar 1981 05:00:00 GMT
+Date:
+    Tue, 18 Oct 2016 16:39:37 GMT
+set-cookie:
+    lang=en-gb; Path=/
+set-cookie:
+    guest_id=v1%3A147680877739657595; Domain=.twitter.com; Path=/; Expires=Thu, 18-Oct-2018 16:39:37 UTC
+x-rate-limit-reset:
+    1476809677
+content-disposition:
+    attachment; filename=json.json
+x-twitter-response-tags:
+    BouncerCompliant
+strict-transport-security:
+    max-age=631138519
+x-access-level:
+    read-write-directmessages
+Content-Type:
+    application/json;charset=utf-8
+
+
+[
+  {
+    "trends": [
+      {
+        "name": "#OTReencuentro",
+        "url": "http://twitter.com/search?q=%23OTReencuentro",
+        "promoted_content": null,
+        "query": "%23OTReencuentro",
+        "tweet_volume": null
+      },
+      {
+        "name": "#Mallorca",
+        "url": "http://twitter.com/search?q=%23Mallorca",
+        "promoted_content": null,
+        "query": "%23Mallorca",
+        "tweet_volume": null
+      },
+      {
+        "name": "#inglés",
+        "url": "http://twitter.com/search?q=%23ingl%C3%A9s",
+        "promoted_content": null,
+        "query": "%23ingl%C3%A9s",
+        "tweet_volume": null
+      },
+      {
+        "name": "Madrid",
+        "url": "http://twitter.com/search?q=Madrid",
+        "promoted_content": null,
+        "query": "Madrid",
+        "tweet_volume": 173523
+      },
+      {
+        "name": "#Barcelona",
+        "url": "http://twitter.com/search?q=%23Barcelona",
+        "promoted_content": null,
+        "query": "%23Barcelona",
+        "tweet_volume": 10388
+      },
+      {
+        "name": "#MAXFUTBOL",
+        "url": "http://twitter.com/search?q=%23MAXFUTBOL",
+        "promoted_content": null,
+        "query": "%23MAXFUTBOL",
+        "tweet_volume": null
+      },
+      {
+        "name": "Red Dead Redemption 2",
+        "url": "http://twitter.com/search?q=%22Red+Dead+Redemption+2%22",
+        "promoted_content": null,
+        "query": "%22Red+Dead+Redemption+2%22",
+        "tweet_volume": 136055
+      },
+      {
+        "name": "Florentino",
+        "url": "http://twitter.com/search?q=Florentino",
+        "promoted_content": null,
+        "query": "Florentino",
+        "tweet_volume": 18312
+      },
+      {
+        "name": "Legia",
+        "url": "http://twitter.com/search?q=Legia",
+        "promoted_content": null,
+        "query": "Legia",
+        "tweet_volume": 30016
+      },
+      {
+        "name": "Fernández Díaz",
+        "url": "http://twitter.com/search?q=%22Fern%C3%A1ndez+D%C3%ADaz%22",
+        "promoted_content": null,
+        "query": "%22Fern%C3%A1ndez+D%C3%ADaz%22",
+        "tweet_volume": null
+      },
+      {
+        "name": "Assassin's Creed",
+        "url": "http://twitter.com/search?q=%22Assassin%27s+Creed%22",
+        "promoted_content": null,
+        "query": "%22Assassin%27s+Creed%22",
+        "tweet_volume": 17435
+      },
+      {
+        "name": "Xavi Pascual",
+        "url": "http://twitter.com/search?q=%22Xavi+Pascual%22",
+        "promoted_content": null,
+        "query": "%22Xavi+Pascual%22",
+        "tweet_volume": null
+      },
+      {
+        "name": "Chuck Berry",
+        "url": "http://twitter.com/search?q=%22Chuck+Berry%22",
+        "promoted_content": null,
+        "query": "%22Chuck+Berry%22",
+        "tweet_volume": 22553
+      },
+      {
+        "name": "Team Skull",
+        "url": "http://twitter.com/search?q=%22Team+Skull%22",
+        "promoted_content": null,
+        "query": "%22Team+Skull%22",
+        "tweet_volume": null
+      },
+      {
+        "name": "Barrika",
+        "url": "http://twitter.com/search?q=Barrika",
+        "promoted_content": null,
+        "query": "Barrika",
+        "tweet_volume": null
+      },
+      {
+        "name": "Rockstar",
+        "url": "http://twitter.com/search?q=Rockstar",
+        "promoted_content": null,
+        "query": "Rockstar",
+        "tweet_volume": 42435
+      },
+      {
+        "name": "Adela",
+        "url": "http://twitter.com/search?q=Adela",
+        "promoted_content": null,
+        "query": "Adela",
+        "tweet_volume": null
+      },
+      {
+        "name": "Tenacitas",
+        "url": "http://twitter.com/search?q=Tenacitas",
+        "promoted_content": null,
+        "query": "Tenacitas",
+        "tweet_volume": null
+      },
+      {
+        "name": "Tauros",
+        "url": "http://twitter.com/search?q=Tauros",
+        "promoted_content": null,
+        "query": "Tauros",
+        "tweet_volume": null
+      },
+      {
+        "name": "Guadalmedina",
+        "url": "http://twitter.com/search?q=Guadalmedina",
+        "promoted_content": null,
+        "query": "Guadalmedina",
+        "tweet_volume": null
+      },
+      {
+        "name": "Slava Kravtsov",
+        "url": "http://twitter.com/search?q=%22Slava+Kravtsov%22",
+        "promoted_content": null,
+        "query": "%22Slava+Kravtsov%22",
+        "tweet_volume": null
+      },
+      {
+        "name": "Viña",
+        "url": "http://twitter.com/search?q=Vi%C3%B1a",
+        "promoted_content": null,
+        "query": "Vi%C3%B1a",
+        "tweet_volume": 14188
+      },
+      {
+        "name": "Grupo Socialista",
+        "url": "http://twitter.com/search?q=%22Grupo+Socialista%22",
+        "promoted_content": null,
+        "query": "%22Grupo+Socialista%22",
+        "tweet_volume": null
+      },
+      {
+        "name": "#cabreador",
+        "url": "http://twitter.com/search?q=%23cabreador",
+        "promoted_content": null,
+        "query": "%23cabreador",
+        "tweet_volume": null
+      },
+      {
+        "name": "#PokemonSolyLuna",
+        "url": "http://twitter.com/search?q=%23PokemonSolyLuna",
+        "promoted_content": null,
+        "query": "%23PokemonSolyLuna",
+        "tweet_volume": null
+      },
+      {
+        "name": "#PSOEdecideM4",
+        "url": "http://twitter.com/search?q=%23PSOEdecideM4",
+        "promoted_content": null,
+        "query": "%23PSOEdecideM4",
+        "tweet_volume": null
+      },
+      {
+        "name": "#SpainNeedsEVOLutionTour",
+        "url": "http://twitter.com/search?q=%23SpainNeedsEVOLutionTour",
+        "promoted_content": null,
+        "query": "%23SpainNeedsEVOLutionTour",
+        "tweet_volume": null
+      },
+      {
+        "name": "#reciclavidrioporellas",
+        "url": "http://twitter.com/search?q=%23reciclavidrioporellas",
+        "promoted_content": null,
+        "query": "%23reciclavidrioporellas",
+        "tweet_volume": null
+      },
+      {
+        "name": "#MordazaCodem",
+        "url": "http://twitter.com/search?q=%23MordazaCodem",
+        "promoted_content": null,
+        "query": "%23MordazaCodem",
+        "tweet_volume": null
+      },
+      {
+        "name": "#hazteunselfi31",
+        "url": "http://twitter.com/search?q=%23hazteunselfi31",
+        "promoted_content": null,
+        "query": "%23hazteunselfi31",
+        "tweet_volume": null
+      },
+      {
+        "name": "#HuelvaGastronomica17",
+        "url": "http://twitter.com/search?q=%23HuelvaGastronomica17",
+        "promoted_content": null,
+        "query": "%23HuelvaGastronomica17",
+        "tweet_volume": null
+      },
+      {
+        "name": "#Pleno",
+        "url": "http://twitter.com/search?q=%23Pleno",
+        "promoted_content": null,
+        "query": "%23Pleno",
+        "tweet_volume": null
+      },
+      {
+        "name": "#WOBIMAD",
+        "url": "http://twitter.com/search?q=%23WOBIMAD",
+        "promoted_content": null,
+        "query": "%23WOBIMAD",
+        "tweet_volume": null
+      },
+      {
+        "name": "#viajetas",
+        "url": "http://twitter.com/search?q=%23viajetas",
+        "promoted_content": null,
+        "query": "%23viajetas",
+        "tweet_volume": null
+      },
+      {
+        "name": "#Zapeando727",
+        "url": "http://twitter.com/search?q=%23Zapeando727",
+        "promoted_content": null,
+        "query": "%23Zapeando727",
+        "tweet_volume": null
+      },
+      {
+        "name": "#iHeartShawnMendes",
+        "url": "http://twitter.com/search?q=%23iHeartShawnMendes",
+        "promoted_content": null,
+        "query": "%23iHeartShawnMendes",
+        "tweet_volume": 23806
+      },
+      {
+        "name": "#OvernightVideo",
+        "url": "http://twitter.com/search?q=%23OvernightVideo",
+        "promoted_content": null,
+        "query": "%23OvernightVideo",
+        "tweet_volume": null
+      },
+      {
+        "name": "#YouthLeague",
+        "url": "http://twitter.com/search?q=%23YouthLeague",
+        "promoted_content": null,
+        "query": "%23YouthLeague",
+        "tweet_volume": null
+      },
+      {
+        "name": "#ILoveLoMas40",
+        "url": "http://twitter.com/search?q=%23ILoveLoMas40",
+        "promoted_content": null,
+        "query": "%23ILoveLoMas40",
+        "tweet_volume": null
+      },
+      {
+        "name": "#Cambiame325",
+        "url": "http://twitter.com/search?q=%23Cambiame325",
+        "promoted_content": null,
+        "query": "%23Cambiame325",
+        "tweet_volume": null
+      },
+      {
+        "name": "#HappyBirthdayTylerPosey",
+        "url": "http://twitter.com/search?q=%23HappyBirthdayTylerPosey",
+        "promoted_content": null,
+        "query": "%23HappyBirthdayTylerPosey",
+        "tweet_volume": 46764
+      },
+      {
+        "name": "#MTVSuperShoreResponde",
+        "url": "http://twitter.com/search?q=%23MTVSuperShoreResponde",
+        "promoted_content": null,
+        "query": "%23MTVSuperShoreResponde",
+        "tweet_volume": null
+      },
+      {
+        "name": "#MARCAjuegadeRosa",
+        "url": "http://twitter.com/search?q=%23MARCAjuegadeRosa",
+        "promoted_content": null,
+        "query": "%23MARCAjuegadeRosa",
+        "tweet_volume": null
+      },
+      {
+        "name": "#MuroexeWolfnoir",
+        "url": "http://twitter.com/search?q=%23MuroexeWolfnoir",
+        "promoted_content": null,
+        "query": "%23MuroexeWolfnoir",
+        "tweet_volume": null
+      },
+      {
+        "name": "#Acacias",
+        "url": "http://twitter.com/search?q=%23Acacias",
+        "promoted_content": null,
+        "query": "%23Acacias",
+        "tweet_volume": null
+      },
+      {
+        "name": "#ConLGVesMás",
+        "url": "http://twitter.com/search?q=%23ConLGVesM%C3%A1s",
+        "promoted_content": null,
+        "query": "%23ConLGVesM%C3%A1s",
+        "tweet_volume": null
+      },
+      {
+        "name": "#DibujoAlexby",
+        "url": "http://twitter.com/search?q=%23DibujoAlexby",
+        "promoted_content": null,
+        "query": "%23DibujoAlexby",
+        "tweet_volume": null
+      },
+      {
+        "name": "#ElExtraPass",
+        "url": "http://twitter.com/search?q=%23ElExtraPass",
+        "promoted_content": null,
+        "query": "%23ElExtraPass",
+        "tweet_volume": null
+      },
+      {
+        "name": "#PremiosPrincesadeAsturias",
+        "url": "http://twitter.com/search?q=%23PremiosPrincesadeAsturias",
+        "promoted_content": null,
+        "query": "%23PremiosPrincesadeAsturias",
+        "tweet_volume": null
+      },
+      {
+        "name": "#CongresoUCAMCOE",
+        "url": "http://twitter.com/search?q=%23CongresoUCAMCOE",
+        "promoted_content": null,
+        "query": "%23CongresoUCAMCOE",
+        "tweet_volume": null
+      }
+    ],
+    "as_of": "2016-10-18T16:39:37Z",
+    "created_at": "2016-10-18T16:35:27Z",
+    "locations": [
+      {
+        "name": "Barcelona",
+        "woeid": 753692
+      }
+    ]
+  }
+]
