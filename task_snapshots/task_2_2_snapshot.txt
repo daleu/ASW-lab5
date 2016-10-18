@@ -1,1 +1,85 @@
+HTTP/1.1 200 OK
 
+x-frame-options:
+    SAMEORIGIN
+x-rate-limit-remaining:
+    178
+last-modified:
+    Tue, 18 Oct 2016 16:29:44 GMT
+status:
+    200 OK
+Content-Length:
+    520
+x-response-time:
+    92
+Connection:
+    keep-alive
+x-transaction:
+    00df9ff000a905aa
+Server:
+    tsa_b
+pragma:
+    no-cache
+cache-control:
+    no-cache, no-store, must-revalidate, pre-check=0, post-check=0
+x-connection-hash:
+    072ba6cb927dd4e0056ce5fb12176406
+x-xss-protection:
+    1; mode=block
+x-content-type-options:
+    nosniff
+x-rate-limit-limit:
+    180
+expires:
+    Tue, 31 Mar 1981 05:00:00 GMT
+Date:
+    Tue, 18 Oct 2016 16:29:44 GMT
+set-cookie:
+    lang=en-gb; Path=/
+set-cookie:
+    guest_id=v1%3A147680818402623369; Domain=.twitter.com; Path=/; Expires=Thu, 18-Oct-2018 16:29:44 UTC
+x-rate-limit-reset:
+    1476809046
+content-disposition:
+    attachment; filename=json.json
+x-twitter-response-tags:
+    BouncerCompliant
+strict-transport-security:
+    max-age=631138519
+x-access-level:
+    read-write-directmessages
+Content-Type:
+    application/json;charset=utf-8
+
+
+{
+  "relationship": {
+    "source": {
+      "id": 158342368,
+      "id_str": "158342368",
+      "screen_name": "Pablo_Iglesias_",
+      "following": true,
+      "followed_by": true,
+      "live_following": false,
+      "following_received": null,
+      "following_requested": null,
+      "notifications_enabled": null,
+      "can_dm": true,
+      "blocking": null,
+      "blocked_by": null,
+      "muting": null,
+      "want_retweets": null,
+      "all_replies": null,
+      "marked_spam": null
+    },
+    "target": {
+      "id": 482389606,
+      "id_str": "482389606",
+      "screen_name": "ierrejon",
+      "following": true,
+      "followed_by": true,
+      "following_received": null,
+      "following_requested": null
+    }
+  }
+}
